@@ -1,0 +1,13 @@
+.blogs{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body {
+    background: radial-gradient(circle, rgb(96, 198, 238), white);
+}
+.foot{
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
